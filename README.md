@@ -33,7 +33,7 @@
 [issues-url]: https://github.com/armeniocardoso/20GRPADS01BDA102/issues
 
 [license-shield]: https://img.shields.io/github/license/armeniocardoso/20GRPADS01BDA102
-[license-url]: https://github.com/armeniocardoso/20GRPADS01BDA102/blob/master/LICENSE.txt
+[license-url]: https://github.com/armeniocardoso/20GRPADS01BDA102/blob/master/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/armeniocardoso
