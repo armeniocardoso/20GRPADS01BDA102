@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
         drawerLayout = this.findViewById<DrawerLayout>(R.id.drawerLayout)
         navController = this.findNavController(R.id.fragment)
         navView = this.findViewById<NavigationView>(R.id.navView)
+        navView.setItemIconTintList(null)
         //----------------------------------------------
         NavigationUI.setupActionBarWithNavController(this, navController, drawerLayout)
         NavigationUI.setupWithNavController(navView, navController)

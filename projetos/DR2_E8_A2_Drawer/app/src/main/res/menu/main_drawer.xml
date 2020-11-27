@@ -3,14 +3,14 @@
 
     <item
         android:id="@+id/tela1Fragment"
-        android:icon="@android:drawable/ic_menu_compass"
+        android:icon="@drawable/um"
         android:title="Tela 1" />
     <item
         android:id="@+id/tela2Fragment"
-        android:icon="@android:drawable/ic_menu_crop"
+        android:icon="@drawable/dois"
         android:title="Tela 2" />
     <item
         android:id="@+id/tela3Fragment"
-        android:icon="@android:drawable/ic_menu_edit"
+        android:icon="@drawable/tres"
         android:title="Tela 3" />
 </menu>
